@@ -1,4 +1,10 @@
 calculadora
 ===========
 
-Código fuente para una calculadora gráfica.
+El Código fuente de la calculadora gráfica.
+Lo encontrarás en la rama "calculadoratarea".
+
+Esta es la rama "master".
+
+
+Saludos,
