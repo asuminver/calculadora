@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  *
- * @author Mami
+ * @author Ana Vicente
  */
 public class OperacionTest {
     
