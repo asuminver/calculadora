@@ -17,7 +17,7 @@ public class OperacionTest {
         o = new Operacion();
     }
     /* He creado un método preparación que se ejecutará antes de cada método de 
-     * de prueba. Aquí se inicializará cada
+     * de prueba. 
      */
     
     
