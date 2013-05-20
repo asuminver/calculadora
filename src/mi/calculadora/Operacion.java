@@ -10,7 +10,7 @@ package mi.calculadora;
  * o establecido al pulsar la tecla igual.
  * @author joer
  */
-public class Operacion {
+public class Operacion {    
     private int acumulado;
     
     
